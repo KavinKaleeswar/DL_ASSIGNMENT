@@ -1,1 +1,1 @@
-Resnet and Alexnet architeture
+This notebook contains CNN architeture
