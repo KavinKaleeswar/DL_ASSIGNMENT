@@ -1,1 +1,2 @@
-This notebook contains CNN architeture
+This notebook contains CNN architetures
+
