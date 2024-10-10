@@ -1,0 +1,1 @@
+Resnet and Alexnet architeture
